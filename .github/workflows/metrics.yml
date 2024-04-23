@@ -30,5 +30,3 @@ jobs:
           plugin_starlists_only: Awesome
           plugin_traffic: yes
           plugin_gists: yes
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
