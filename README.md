@@ -13,15 +13,15 @@ my name is sulthan, i'm a fullstack developer, 3D artist, and a teacher from **I
 
 [![My Activity Acros Repos](https://github-readme-activity-graph.vercel.app/graph?username=sakarimov&theme=github-compact&radius=10&height=300&custom_title=My%20Last%20Activity&hide_border=true&line=ff6100&point=ff8a00&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
 <table>
   <tbody>
-    <tr border=none;>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakarimov&hide_border=true&show_icons=true&theme=transparent&locale=en&layout=compact" alt="sakarimov" /></p>
-    </tr>
-    <tr border=none;>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sakarimov&show_icons=true&hide_border=true&theme=transparent&locale=en&hide=contribs,stars&show=prs_merged_percentage&rank_icon=percentile" alt="sakarimov" /></p>
+    <tr border:none;>
+<td border:none;>
+<p><img src="https://github-readme-stats.vercel.app/api?username=sakarimov&show_icons=true&hide_border=true&theme=transparent&locale=en&hide=contribs,stars&show=prs_merged_percentage&rank_icon=percentile" alt="sakarimov" /></p>
+</td>
+<td border:none;>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakarimov&hide_border=true&show_icons=true&theme=transparent&locale=en&layout=compact" alt="sakarimov" /></p>
+</td>
     </tr>
   </tbody>
 </table>
